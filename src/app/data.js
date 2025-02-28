@@ -85,7 +85,7 @@ export const projectsData = [
     name: "Yashoda Trust",
     description: "A donation application for children help and study",
     date: "2025-02-10",
-    demoLink: "https://mindfulmoments.example.com",
+    demoLink: "https://yashodaect.org",
   },
 ];
 
