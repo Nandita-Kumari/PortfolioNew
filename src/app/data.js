@@ -50,6 +50,8 @@ export const projectsData = [
     description: "A website for an international school",
     date: "2024-04-25",
     demoLink: "https://www.montiangelsinternationalschool.com/",
+    mediaType: "video",
+    media: "/projects/montiangels.mp4",
   },
   {
     id: 5,
@@ -57,6 +59,8 @@ export const projectsData = [
     description: "A service based company's website",
     date: "2024-05-08",
     demoLink: "https://www.rpinfocare.com/",
+    mediaType: "video",
+    media: "/projects/rpinfocare.mp4",
   },
   {
     id: 6,
@@ -64,6 +68,8 @@ export const projectsData = [
     description: "Redefining work culture",
     date: "2024-03-28",
     demoLink: "https://crescentworkspace.in/",
+    mediaType: "video",
+    media: "/projects/crescent.mp4",
   },
   {
     id: 7,
@@ -71,6 +77,8 @@ export const projectsData = [
     description: "Build with trust",
     date: "2024-04-02",
     demoLink: "https://www.torosand.in/",
+    mediaType: "video",
+    media: "/projects/torosand.mp4",
   },
   {
     id: 8,
@@ -78,6 +86,8 @@ export const projectsData = [
     description: "Travel Comfort",
     date: "2024-03-19",
     demoLink: "https://www.unicorpelevators.in/",
+    mediaType: "video",
+    media: "/projects/unicorp.mp4",
   },
   
   {
