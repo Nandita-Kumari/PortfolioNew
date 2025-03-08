@@ -16,63 +16,70 @@ Websites:
 
 */
 
+// import toypebbleImage from "../../public/projects/Screenshot 2025-03-08 211804.png";
+
 export const projectsData = [
   {
     id: 1,
+    name: "Little Screens",
+    description: "A theater booking application",
+    date: "2024-12-18",
+    demoLink: "https://thelittlescreens.com/",
+  },
+  {
+    id: 2,
     name: "Toypebble",
     description: "A subscription based partial ecommerce site for toys",
     date: "2024-07-02",
     demoLink: "https://toypebble.com/",
+    mediaType: "video",
+    media: "/projects/toypebble.mp4",
   },
   {
-    id: 2,
+    id: 3,
     name: "Leons",
     description: "A burger king website",
     date: "2024-05-22",
     demoLink: "http://leons.in/",
+    mediaType: "video",
+    media: "/projects/leons.mp4",
   },
   {
-    id: 3,
+    id: 4,
     name: "MontiAngels International School",
     description: "A website for an international school",
     date: "2024-04-25",
     demoLink: "https://www.montiangelsinternationalschool.com/",
   },
   {
-    id: 4,
+    id: 5,
     name: "RP Infocare",
     description: "A service based company's website",
     date: "2024-05-08",
     demoLink: "https://www.rpinfocare.com/",
   },
   {
-    id: 5,
+    id: 6,
     name: "Crescent Workspace",
     description: "Redefining work culture",
     date: "2024-03-28",
     demoLink: "https://crescentworkspace.in/",
   },
   {
-    id: 6,
+    id: 7,
     name: "Torosand",
     description: "Build with trust",
     date: "2024-04-02",
     demoLink: "https://www.torosand.in/",
   },
   {
-    id: 7,
+    id: 8,
     name: "Unicorp Elevators",
     description: "Travel Comfort",
     date: "2024-03-19",
     demoLink: "https://www.unicorpelevators.in/",
   },
-  {
-    id: 8,
-    name: "Little Screens",
-    description: "A theater booking application",
-    date: "2024-12-18",
-    demoLink: "https://thelittlescreens.com/",
-  },
+  
   {
     id: 9,
     name: "Advi Groups",
