@@ -96,6 +96,8 @@ export const projectsData = [
     description: "An IT sector electronic and manufacturing company's application",
     date: "2025-02-03",
     demoLink: "https://advigroups.org/",
+    mediaType: "video",
+    media: "/projects/advigroups.mp4",
   },
   {
     id: 10,
