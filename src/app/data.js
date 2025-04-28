@@ -25,6 +25,8 @@ export const projectsData = [
     description: "A theater booking application",
     date: "2024-12-18",
     demoLink: "https://thelittlescreens.com/",
+    mediaType: "video",
+    media: "/projects/littleScreen.mp4",
   },
   {
     id: 2,
